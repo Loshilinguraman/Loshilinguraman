@@ -93,18 +93,6 @@ Built a Logistic Regression model to predict passenger survival on the Titanic d
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Loshilinguraman&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
 # 🛠 Currently Working On
 
 - 📘 Learning Java fundamentals and Object-Oriented Programming.
