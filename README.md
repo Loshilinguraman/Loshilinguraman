@@ -63,13 +63,12 @@ Built a Logistic Regression model to predict passenger survival on the Titanic d
 📂 Repository: [Your Titanic Repo URL]
 
 ---
-
 # 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Loshilinguraman&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loshilinguraman&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Loshilinguraman&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Loshilinguraman&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
