@@ -60,8 +60,7 @@ Built a Logistic Regression model to predict passenger survival on the Titanic d
 
 `Python` `Pandas` `Scikit-learn` `Google Colab`
 
-📂 Repository: [Your Titanic Repo URL]
-
+📂 Repository: http://github.com/Loshilinguraman/titanic-survival-prediction
 ---
 # 📊 GitHub Stats
 
